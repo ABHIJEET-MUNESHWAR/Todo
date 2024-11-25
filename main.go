@@ -1,10 +1,10 @@
 package main
 
 import (
+	"github.com/ABHIJEET-MUNESHWAR/Todo/internal/db"
+	"github.com/ABHIJEET-MUNESHWAR/Todo/internal/todo"
+	"github.com/ABHIJEET-MUNESHWAR/Todo/internal/transport"
 	"log"
-	"my-first-api/internal/db"
-	"my-first-api/internal/todo"
-	"my-first-api/internal/transport"
 )
 
 func main() {
